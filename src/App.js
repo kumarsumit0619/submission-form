@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-        </a> with Harmeeth.
+        </a> with Sumit.
       </header>
     </div>
   );
